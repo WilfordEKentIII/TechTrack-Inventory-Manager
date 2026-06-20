@@ -1,2 +1,2 @@
 # TechTrack-Inventory-Manager
-Python-based inventory and repair tracking system that allows users to manage devices, track repair records, search assets by serial number, and generate inventory reports.
+TechTrack Inventory Manager is a Python application designed to help organizations manage their technology assets and repair records. Users can add devices, search inventory by serial number, track repair history, and generate organized inventory reports.
